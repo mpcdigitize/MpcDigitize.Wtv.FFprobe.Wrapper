@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace mpcdigitize.ffprobe.wtv.wrapper.Enums
+namespace MpcDigitize.Wtv.FFprobe.Wrapper.Enums
 {
     public enum OutputFormat
     {

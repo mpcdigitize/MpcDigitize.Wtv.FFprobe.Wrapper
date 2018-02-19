@@ -1,0 +1,1 @@
+\\TOWER\github\MpcDigitize.Wtv.FFprobe.Wrapper\MpcDigitize.Wtv.FFprobe.Wrapper\obj\Debug\MpcDigitize.Wtv.FFprobe.Wrapper.csprojResolveAssemblyReference.cache

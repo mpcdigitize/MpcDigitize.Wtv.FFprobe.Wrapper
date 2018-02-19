@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace mpcdigitize.ffprobe.wtv.wrapper
+namespace MpcDigitize.Wtv.FFprobe.Wrapper.Model
 {
     public class Format
     {

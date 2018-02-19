@@ -7,7 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace mpcdigitize.ffprobe.wtv.wrapper.Extensions
+namespace MpcDigitize.Wtv.FFprobe.Wrapper.Extensions
 {
     public static class Extensions
     {
