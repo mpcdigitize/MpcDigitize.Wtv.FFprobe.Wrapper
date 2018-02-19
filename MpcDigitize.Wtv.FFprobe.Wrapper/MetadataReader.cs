@@ -1,12 +1,10 @@
 ﻿
-using mpcdigitize.ffprobe.wtv.wrapper.Enums;
+
+using MpcDigitize.Wtv.FFprobe.Wrapper.Enums;
 using System;
-using System.Collections.Generic;
 using System.Diagnostics;
 using System.IO;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+
 
 namespace MpcDigitize.Wtv.FFprobe.Wrapper
 {

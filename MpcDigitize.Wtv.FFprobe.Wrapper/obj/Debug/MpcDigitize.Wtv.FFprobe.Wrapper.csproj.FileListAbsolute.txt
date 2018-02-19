@@ -1,1 +1,7 @@
 \\TOWER\github\MpcDigitize.Wtv.FFprobe.Wrapper\MpcDigitize.Wtv.FFprobe.Wrapper\obj\Debug\MpcDigitize.Wtv.FFprobe.Wrapper.csprojResolveAssemblyReference.cache
+\\TOWER\github\MpcDigitize.Wtv.FFprobe.Wrapper\MpcDigitize.Wtv.FFprobe.Wrapper\bin\Debug\MpcDigitize.Wtv.FFprobe.Wrapper.dll
+\\TOWER\github\MpcDigitize.Wtv.FFprobe.Wrapper\MpcDigitize.Wtv.FFprobe.Wrapper\bin\Debug\MpcDigitize.Wtv.FFprobe.Wrapper.pdb
+\\TOWER\github\MpcDigitize.Wtv.FFprobe.Wrapper\MpcDigitize.Wtv.FFprobe.Wrapper\bin\Debug\Newtonsoft.Json.dll
+\\TOWER\github\MpcDigitize.Wtv.FFprobe.Wrapper\MpcDigitize.Wtv.FFprobe.Wrapper\bin\Debug\Newtonsoft.Json.xml
+\\TOWER\github\MpcDigitize.Wtv.FFprobe.Wrapper\MpcDigitize.Wtv.FFprobe.Wrapper\obj\Debug\MpcDigitize.Wtv.FFprobe.Wrapper.dll
+\\TOWER\github\MpcDigitize.Wtv.FFprobe.Wrapper\MpcDigitize.Wtv.FFprobe.Wrapper\obj\Debug\MpcDigitize.Wtv.FFprobe.Wrapper.pdb
