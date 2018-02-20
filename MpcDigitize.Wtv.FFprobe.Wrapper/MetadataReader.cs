@@ -31,6 +31,8 @@ namespace MpcDigitize.Wtv.FFprobe.Wrapper
             process.StartInfo.FileName = _programmPath;
             process.StartInfo.UseShellExecute = false;
             process.StartInfo.RedirectStandardOutput = true;
+            process.StartInfo.CreateNoWindow = true;
+            process.StartInfo.WindowStyle = ProcessWindowStyle.Hidden;
             
 
            process.Start();
